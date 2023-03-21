@@ -1,0 +1,9 @@
+{
+  "name": "aws-vault",
+  "id": "aws-vault",
+  "version": "1.0.0",
+  "description": "A vault for securely storing and accessing AWS credentials in development environments",
+  "installsAfter": [
+    "ghcr.io/devcontainers/features/github-cli"
+  ]
+}
